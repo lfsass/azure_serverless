@@ -1,1 +1,1 @@
-# azure_serverless
+Azure serverless example from book Terraform in Action - Scott Winkler

@@ -1,0 +1,2 @@
+location  = "canadaeast"
+namespace = "ballroominaction"
